@@ -21,4 +21,4 @@ no_index:
 requires:
   Config::Any: 0
   Config::General: 0
-version: 0.27
+version: 0.28
