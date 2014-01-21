@@ -4,8 +4,8 @@ package Task::Kensho::Config;
 BEGIN {
   $Task::Kensho::Config::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34-TRIAL-33-g562e0a0
-$Task::Kensho::Config::VERSION = '0.34001'; # TRIAL
+# git description: v0.34001-TRIAL-7-g4c77268
+$Task::Kensho::Config::VERSION = '0.34002'; # TRIAL
 # ABSTRACT: Config Modules
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Config - Config Modules
 
 =head1 VERSION
 
-version 0.34001
+version 0.34002
 
 =head1 SYNOPSIS
 
