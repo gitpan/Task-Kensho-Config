@@ -4,8 +4,8 @@ package Task::Kensho::Config;
 BEGIN {
   $Task::Kensho::Config::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34002-TRIAL-12-ge50a5a6
-$Task::Kensho::Config::VERSION = '0.34003'; # TRIAL
+# git description: v0.34003-TRIAL-6-g051dd97
+$Task::Kensho::Config::VERSION = '0.34004'; # TRIAL
 # ABSTRACT: A Glimpse at an Enlightened Perl: Config Modules
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Config - A Glimpse at an Enlightened Perl: Config Modules
 
 =head1 VERSION
 
-version 0.34003
+version 0.34004
 
 =head1 SYNOPSIS
 

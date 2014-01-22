@@ -4,7 +4,7 @@ Task::Kensho::Config - A Glimpse at an Enlightened Perl: Config Modules
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 
