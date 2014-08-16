@@ -1,11 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Config;
-BEGIN {
-  $Task::Kensho::Config::AUTHORITY = 'cpan:PERIGRIN';
-}
-# git description: v0.35-24-g83ca58f
-$Task::Kensho::Config::VERSION = '0.36';
+# git description: v0.36-21-g77af502
+$Task::Kensho::Config::VERSION = '0.37';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Config Modules
 
 __END__
@@ -20,7 +17,7 @@ Task::Kensho::Config - A Glimpse at an Enlightened Perl: Config Modules
 
 =head1 VERSION
 
-version 0.36
+version 0.37
 
 =head1 SYNOPSIS
 
@@ -115,5 +112,25 @@ This software is copyright (c) 2008 by Chris Prather.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
+
+=head1 CONTRIBUTORS
+
+=for stopwords Karen Etheridge Leo Lapworth Chris Nehren
+
+=over 4
+
+=item *
+
+Karen Etheridge <ether@cpan.org>
+
+=item *
+
+Leo Lapworth <leo@cuckoo.org>
+
+=item *
+
+Chris Nehren <apeiron@cpan.org>
+
+=back
 
 =cut
