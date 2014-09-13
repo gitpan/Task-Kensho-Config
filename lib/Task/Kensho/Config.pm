@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Config;
-# git description: v0.36-21-g77af502
-$Task::Kensho::Config::VERSION = '0.37';
+# git description: v0.37-23-g66003fc
+$Task::Kensho::Config::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Config Modules
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::Config - A Glimpse at an Enlightened Perl: Config Modules
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
